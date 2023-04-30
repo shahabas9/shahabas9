@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning AI and Data Science
 - 🌱 I’m currently learning and working in computer vision.
 - 💞️ I’m looking to collaborate on more Data Science projects
-- 📫 How to reach me ...
+- 📫 How to reach me on linkedin : "linkedin.com/in/mohamed-shahabas-929b04151"
 
 <!---
 shahabas9/shahabas9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
