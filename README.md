@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahabas9
+- 👋 Hi, I’m Mohamed Shahabas
 - 👀 I’m interested in Machine learning AI and Data Science
 - 🌱 I’m currently learning and working in computer vision.
 - 💞️ I’m looking to collaborate on more Data Science projects
