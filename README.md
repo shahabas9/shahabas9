@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahabas</h1>
-<p align="center">Software engineer focused on Python, DevOps, and TypeScript</p>
+<p align="center">Software engineer focused on Python, DevOps, AI and TypeScript</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-shahabas-929b04151/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
